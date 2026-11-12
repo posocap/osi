@@ -238,4 +238,4 @@ correctly is SQL D1 will accept. No network.
 
 One request at a time, 1s default delay, exponential backoff honouring
 `Retry-After`. Set a real contact address in the `UA` constant in
-`osi_harvest.py` before a long run.
+`osi_harvest.py` before a long run. 
